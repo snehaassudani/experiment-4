@@ -25,3 +25,21 @@ To write a Python program to demonstrate various list operations such as appendi
 17. Clear all elements from the copied list using `clear()`.
 18. Display the cleared list.
 19. Stop the program.
+
+### Output:
+
+original list: [90, 80, 70, 100, 50, 30, 20]
+length of the list: 7
+after append: [90, 80, 70, 100, 50, 30, 20, 85]
+marks after insertion: [90, 95, 80, 70, 100, 50, 30, 20, 85]
+marks after removal: [90, 95, 80, 70, 100, 50, 30, 85]
+list after popping: [90, 95, 80, 70, 100, 50, 30]
+number of 100 in list: 1
+print the index of 50: 5
+after reverse: [30, 50, 100, 70, 80, 95, 90]
+copied list: [30, 50, 100, 70, 80, 95, 90]
+marks after extention: [30, 50, 100, 70, 80, 95, 90, 60, 55]
+highest value: 100
+lowest value: 30
+sum of all values: 630
+list after clear: []
